@@ -1,0 +1,5 @@
+# private settings
+local_settings.py
+
+# idea files
+.idea
